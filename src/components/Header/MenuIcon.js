@@ -1,8 +1,121 @@
-import React from "react";
+import React from 'react';
 
 export default function MenuIcon() {
-
-    return (
-        <svg xmlns="http://www.w3.org/2000/svg" class="ionicon w-5 h-5 hover:rounded-sm hover:bg-gray-100" viewBox="0 0 512 512"><title>Apps</title><rect x="64" y="64" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><rect x="216" y="64" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><rect x="368" y="64" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><rect x="64" y="216" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><rect x="216" y="216" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><rect x="368" y="216" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><rect x="64" y="368" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><rect x="216" y="368" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/><rect x="368" y="368" width="80" height="80" rx="40" ry="40" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"/></svg>
-    )
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      class="ionicon mr-2 ml-6 h-6 w-6 hover:rounded-xl hover:bg-gray-100"
+      viewBox="0 0 512 512"
+    >
+      <title>Apps</title>
+      <rect
+        x="64"
+        y="64"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+      <rect
+        x="216"
+        y="64"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+      <rect
+        x="368"
+        y="64"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+      <rect
+        x="64"
+        y="216"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+      <rect
+        x="216"
+        y="216"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+      <rect
+        x="368"
+        y="216"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+      <rect
+        x="64"
+        y="368"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+      <rect
+        x="216"
+        y="368"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+      <rect
+        x="368"
+        y="368"
+        width="80"
+        height="80"
+        rx="40"
+        ry="40"
+        fill="none"
+        stroke="currentColor"
+        stroke-miterlimit="10"
+        stroke-width="32"
+      />
+    </svg>
+  );
 }
